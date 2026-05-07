@@ -1,0 +1,147 @@
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.Database.Extensions.dll
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\THLTHDT\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\bin\Debug\Oracle.Database.Extensions.dll
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmdau.resources
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\THLTHDT\c#\DOAN\WindowsFormsApplication1\obj\Debug\WindowsF.C2CC1009.Up2Date
+G:\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmdau.resources
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsF.C2CC1009.Up2Date
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmdau.resources
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsF.C2CC1009.Up2Date
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\THLTHDT\c#\DOAN\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.barcodes.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.commons.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.forms.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.io.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.kernel.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.layout.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.pdfa.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.pdfua.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.sign.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.svg.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itextsharp.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Oracle.Database.Extensions.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Buffers.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Memory.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.barcodes.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.commons.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.forms.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.io.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.kernel.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.layout.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.pdfa.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.pdfua.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.sign.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itext.svg.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\itextsharp.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Buffers.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Memory.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormDevices.resources
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormMain.resources
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormQuotaManager.resources
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormSignPDF.resources
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormUserLock.resources
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmdau.resources
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsF.C2CC1009.Up2Date
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hello\Downloads\DOANN (2)\DOANN\DOAN\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
