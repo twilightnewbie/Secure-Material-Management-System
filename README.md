@@ -1,6 +1,4 @@
-Đây là nội dung file README.md đã được lược bỏ toàn bộ icon để trông tối giản và tập trung vào chuyên môn hơn:
-
-Database Security & Material Management System
+                        Database Security & Material Management System
 Giới thiệu
 Đồ án môn học Bảo mật Cơ sở dữ liệu, xây dựng hệ thống Quản lý vật tư trên nền tảng Oracle Database kết hợp giao diện C# WinForms. Dự án không chỉ giải quyết bài toán quản lý kho bãi cơ bản mà còn tập trung triển khai chuyên sâu các cơ chế bảo mật ở cả tầng ứng dụng và cơ sở dữ liệu, nhằm đảm bảo tính toàn vẹn, xác thực và an toàn thông tin doanh nghiệp.
 
